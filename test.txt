@@ -1,0 +1,6 @@
+1. CREATE DATABASE databasename;
+
+2. CREATE TABLE table_name 
+
+3. 
+
